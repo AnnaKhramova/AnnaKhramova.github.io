@@ -198,6 +198,7 @@ a:hover {
     display: flex;
     line-height: 1.8rem;
     margin-bottom: 1.8rem;
+    margin-left: 5rem;
 }
 .content__main-item.project img {
     max-width: 300px;
